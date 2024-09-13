@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Cloud, DevOps, and IOT**
 
-- 👨‍💻 All of my projects are available at [[ahmednabil208](https://github.com/ahmednabil208)]([ahmednabil208](https://github.com/ahmednabil208))
+- 👨‍💻 All of my projects are available at [[ahmednabil208](https://github.com/ahmednabil208)]
 
 - 📫 How to reach me **an040472@gmail.com**
 
-- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1ouYHNni0T49ucbPv5FWhEWadR7t0fM9_/view?usp=drive_link).]([CV](https://drive.google.com/file/d/1ouYHNni0T49ucbPv5FWhEWadR7t0fM9_/view?usp=drive_link).)
+- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1ouYHNni0T49ucbPv5FWhEWadR7t0fM9_/view?usp=drive_link).]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
