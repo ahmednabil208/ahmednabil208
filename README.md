@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nabil</h1>
 
+A highly motivated learner with a passion for cloud technologies, IoT, and DevOps. Dedicated to gaining knowledge and experience by exploring and optimizing mod
 
 - 🌱 I’m currently learning **Cloud, DevOps, and IOT**
 
