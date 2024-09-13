@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nabil</h1>
 
- A highly motivated learner with a passion for cloud technologies, IoT, and DevOps. Dedicated to gaining knowledge and experience by exploring and optimizing modern tech solutions. Committed to continuous learning and applying hands-on skills to drive innovation and enhance technical expertise.
+ A highly motivated learner with a passion for cloud technologies, DevOps, and IoT. Dedicated to gaining knowledge and experience by exploring and optimizing modern tech solutions. Committed to continuous learning and applying hands-on skills to drive innovation and enhance technical expertise.
 
-- 🌱 I’m currently learning **Cloud, DevOps, and IOT**
+- 🌱 I’m currently studying at  **Helwan University**
+
+-  🌱 I’m currently learning **Cloud, DevOps, and IOT**
 
 - 👨‍💻 All of my projects are available at [[ahmednabil208](https://github.com/ahmednabil208)]
 
