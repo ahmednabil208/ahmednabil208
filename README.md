@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **an040472@gmail.com**
 
-- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1ouYHNni0T49ucbPv5FWhEWadR7t0fM9_/view?usp=drive_link).]
+- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1zmBIxPRdvZr3Pghi0tfqhYc4nEbfIQja/view?usp=drive_link).]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
