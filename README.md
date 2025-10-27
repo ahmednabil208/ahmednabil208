@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nabil</h1>
 
- A highly motivated learner with a passion for cloud technologies, DevOps, and IoT. Dedicated to gaining knowledge and experience by exploring and optimizing modern tech solutions. Committed to continuous learning and applying hands-on skills to drive innovation and enhance technical expertise.
+I’m a Cloud and DevOps Engineer with a strong foundation in cloud infrastructure, automation, and container orchestration. I have hands-on experience across multi-cloud platforms (AWS and Huawei Cloud) and practical expertise in DevOps practices including Docker, Kubernetes, CI/CD pipelines, and infrastructure as code.
 
-- 🌱 I’m currently studying at  **Helwan University**
+I’m passionate about optimizing cloud solutions, enhancing system reliability, and continuously improving deployment processes. I’m dedicated to applying my technical skills to build scalable, efficient, and secure environments that drive innovation.
 
--  🌱 I’m currently learning **Cloud, DevOps, and IOT**
+🎓 Graduate of: Helwan University — Communication and Electronics Engineering
+
+🚀 Currently focusing on: Cloud Computing and DevOps Engineering
+
+⚙️ Key Skills: Docker · Kubernetes · Ansible · Terraform · GitHub Actions · AWS · Google Cloud · Linux · CI/CD
 
 - 👨‍💻 All of my projects are available at [[ahmednabil208](https://github.com/ahmednabil208)]
 
-- 📫 How to reach me **an040472@gmail.com**
+- 📫 How to reach me **ahmednabil2082002@gmail.com**
 
 - 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1r-njMSebjd5rOioy9u2yDJ926nyopM0I/view?usp=sharing).]
 
