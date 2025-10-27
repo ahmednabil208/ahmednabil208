@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **an040472@gmail.com**
 
-- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1zmBIxPRdvZr3Pghi0tfqhYc4nEbfIQja/view?usp=drive_link).]
+- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1r-njMSebjd5rOioy9u2yDJ926nyopM0I/view?usp=sharing).]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-nabil-539324232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-nabil-539324232/" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/ahmed-nabil-539324232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-nabil-539324232/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
